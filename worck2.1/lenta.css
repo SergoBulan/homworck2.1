@@ -1,0 +1,62 @@
+body {
+    background: bisque;
+}
+.w600 {
+    width: 600px;
+}
+.h350 {
+    height: 350px;
+}
+.h250 {
+    height: 250px;
+}
+.w150 {
+    width: 150px;
+}
+.bgBase {
+    background: cadetblue;
+}
+.brdr5 {
+    border-radius: 5px;
+}
+.conteyner {
+    box-sizing: border-box;
+    padding-left: 400px;
+}
+.gg {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: start;
+    box-sizing: border-box;
+    padding-top: 50px;
+}
+.lol{
+    background: darksalmon;
+}
+.bird {
+    background: azure;
+}
+div> h1 {
+    box-sizing: border-box;
+    text-align: center;
+    color: green;
+
+}
+div> p {
+    box-sizing: border-box;
+    padding: 10px;
+    text-align:justify ;
+}
+button {
+    text-decoration: none;
+    display: block;
+    margin-left: 50px;
+    margin-top: 40px;
+    background: maroon;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    line-height: 50px;
+    vertical-align: center;
+    color: black;
+ }
