@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17d094d1-9b41-48d3-8aac-85ec24290b05" name="Changes" comment="prior">
-      <change afterPath="$PROJECT_DIR$/worck4/mani.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worck4/worck4.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worck4/worck4.2/nani.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worck4/worck4.2/worck4.2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/worck4/mani.css" beforeDir="false" afterPath="$PROJECT_DIR$/worck4/worck4.1/mani.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/worck4/worck4.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/worck4/worck4.1/worck4.1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -57,6 +59,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\homworck2.1\worck4\worck4.1" />
       <recent name="C:\Users\Admin\IdeaProjects\homworck2.1\worck3\worck3.2" />
       <recent name="C:\Users\Admin\IdeaProjects\homworck2.1\worck3\worck3.1" />
       <recent name="C:\Users\Admin\IdeaProjects\homworck2.1\worck2.1" />
@@ -75,7 +78,7 @@
       <workItem from="1657346797878" duration="11518000" />
       <workItem from="1657360363684" duration="1232000" />
       <workItem from="1657702022783" duration="17211000" />
-      <workItem from="1657884276079" duration="3107000" />
+      <workItem from="1657884276079" duration="4443000" />
     </task>
     <task id="LOCAL-00001" summary="fail">
       <created>1657361442820</created>
@@ -105,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657725314874</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="prior">
+      <created>1657888497008</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657888497008</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+}
+.dadi {
+    min-height: 500px;
+    width: 100%;
+}
+.ruff {
+    height: 100px;
+    background: silver;
+}
+.plat {
+    background: blue;
+    width: 100%;
+    min-height: 400px;
+    display: flex;
+    flex-direction: row;
+}
+.rip {
+    height: 400px;
+    width: 75%;
+    background: aquamarine;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.lilo{
+    background: darkkhaki;
+    height: 400px;
+    width: 25%;
+}
+.big{
+    height: 200px;
+    width: 100%;
+    background: maroon;
+}
+.box{
+    height: 200px;
+    width: 32%;
+    background: darkorange;
+    border-radius: 10px;
+}
+@media screen and (max-width: 1000px){
+    .plat {
+        flex-direction: column;
+    }
+    .rip {
+        width: 100%;
+    }
+    .lilo {
+        width: 100%;
+        height: 300px;
+    }
+}
