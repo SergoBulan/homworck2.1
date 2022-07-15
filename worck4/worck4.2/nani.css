@@ -8,6 +8,9 @@ body{
 .ruff {
     height: 100px;
     background: silver;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 .plat {
     background: blue;
@@ -22,7 +25,7 @@ body{
     background: aquamarine;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 .lilo{
     background: darkkhaki;
@@ -51,4 +54,25 @@ body{
         width: 100%;
         height: 300px;
     }
+}
+.lvl {
+    height: 40px;
+    width: 200px;
+    background: green;
+    margin-left: 20px;
+    border-radius: 30px;
+}
+.item {
+    width: 70px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div> .item {
+    margin-right: 100px;
+}
+.fa-arrow-up-right-from-square{
+    font-size: 50px;
+    color: crimson;
 }
